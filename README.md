@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ericko444
-- 👀 I’m interested in sofware engineering
-- 🌱 I’m currently learning sofware development at ITUniversity Antananarivo, Madagascar
+- 👀 I’m interested in software development
+- 🌱 I’m a software engineer based in Antananarivo, Madagascar
 
 <!---
 Ericko444/Ericko444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
