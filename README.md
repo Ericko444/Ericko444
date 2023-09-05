@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ericko444
+- 👋 Hi, I’m Ericko Andriamanarivo
 - 👀 I’m interested in software development
 - 🌱 I’m a software engineer based in Antananarivo, Madagascar
 
